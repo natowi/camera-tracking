@@ -39,4 +39,6 @@ http://openptrack.org/about/
 
 https://github.com/OpenPTrack
 
-#
+# OpenVisionControl
+
+http://openvisionc.sourceforge.net/

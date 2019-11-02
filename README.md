@@ -46,3 +46,7 @@ http://openvisionc.sourceforge.net/
 # BoofCV
 
 https://github.com/lessthanoptimal/BoofCV
+
+# fSpy (not camera tracking, but matching)
+
+https://github.com/stuffmatic/fSpy

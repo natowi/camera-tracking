@@ -42,3 +42,7 @@ https://github.com/OpenPTrack
 # OpenVisionControl
 
 http://openvisionc.sourceforge.net/
+
+# BoofCV
+
+https://github.com/lessthanoptimal/BoofCV

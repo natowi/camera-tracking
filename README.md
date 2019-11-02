@@ -30,3 +30,13 @@ http://code.astraw.com/libcamiface/
 Camera tracker (last update 2012, free but binaries only)
 
 
+# openptrack
+
+Openptrack is a scalable, multi-camera solution for person tracking.
+It enables many people to be tracked over large areas in real time.
+
+http://openptrack.org/about/
+
+https://github.com/OpenPTrack
+
+#

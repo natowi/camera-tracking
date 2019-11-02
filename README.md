@@ -2,7 +2,7 @@
 
 List of free/open source camera tracking tools
 
-# Tracksperanto (CLI-tool)
+# Tracksperanto (CLI and web)
 
 https://github.com/guerilla-di/tracksperanto
 

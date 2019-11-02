@@ -6,7 +6,7 @@ List of free/open source camera tracking tools
 
 https://github.com/guerilla-di/tracksperanto
 
-THE 2-d track conversion app for VFX professionals
+THE 2-d track **conversion** app for VFX professionals
 
 # libmv Library for Multiview Reconstruction (blender, library)
 

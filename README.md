@@ -29,6 +29,8 @@ http://code.astraw.com/libcamiface/
 
 Camera tracker (last update 2012, free but binaries only)
 
+https://www.viscoda.com/index.php/en/products/non-commercial/voodoo-camera-tracker
+
 
 # openptrack
 
